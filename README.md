@@ -58,9 +58,9 @@ The data set contains the following diseases:
 - Using the dataset, we successfully implemented the CNN based models. But the baseline model has encountered the overfitting problem, due to the limit of training samples and imbalanced classes.
 - We also experiments with multiple methods such as data agumentation, drop out layer and solving imbalanced classes to get the best model.
 - The model has the best accuracy:
-    - Train Set:
-    - Validation Set:
-    - Test Set
+    - Train Set: 0.7784
+    - Validation Set: 0.8510
+    - Test Set: 0.4237
 
 
 ## Technologies Used
